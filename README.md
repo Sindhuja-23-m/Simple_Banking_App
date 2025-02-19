@@ -26,22 +26,6 @@ HashMap for storing account details
 
 Scanner for user input
 
-# How to Run
-
-Clone or Download the Repository
-
-git clone https://github.com/your-repository/banking-app.git
-
-Open in Eclipse or Any Java IDE
-
-Import the project into Eclipse, IntelliJ, or any Java-supported IDE.
-
-Compile and Run the Application
-
-Open the Banking_app.java file.
-
-Run the program.
-
 # Usage
 
 When the application starts, it presents a menu with options:
