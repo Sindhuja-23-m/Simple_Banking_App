@@ -1,10 +1,10 @@
 # Simple_Banking_App
 
-Overview
+# Overview
 
 This is a simple Banking Application built using Java. It allows users to create accounts, deposit and withdraw money, transfer funds between accounts, and check account balances.
 
-Features
+# Features
 
 Create a new bank account
 
@@ -18,7 +18,7 @@ Check account balance
 
 Exit the application
 
-Technologies Used
+# Technologies Used
 
 Java
 
@@ -26,7 +26,7 @@ HashMap for storing account details
 
 Scanner for user input
 
-How to Run
+# How to Run
 
 Clone or Download the Repository
 
@@ -42,7 +42,7 @@ Open the Banking_app.java file.
 
 Run the program.
 
-Usage
+# Usage
 
 When the application starts, it presents a menu with options:
 
@@ -55,7 +55,7 @@ When the application starts, it presents a menu with options:
 
 Users can select an option by entering the corresponding number.
 
-Example Usage
+# Example Usage
 
 Creating an Account
 
@@ -74,7 +74,7 @@ Checking Balance
 Enter Account Number: 12345
 Balance: 1500
 
-Future Enhancements
+# Future Enhancements
 
 Implement database integration (MySQL) using JDBC
 
